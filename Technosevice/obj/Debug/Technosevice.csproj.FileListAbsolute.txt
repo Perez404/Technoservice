@@ -1,0 +1,17 @@
+C:\Users\stud.KIT\Documents\22\Technosevice\Technosevice\bin\Debug\Technosevice.exe.config
+C:\Users\stud.KIT\Documents\22\Technosevice\Technosevice\bin\Debug\Technosevice.exe
+C:\Users\stud.KIT\Documents\22\Technosevice\Technosevice\bin\Debug\Technosevice.pdb
+C:\Users\stud.KIT\Documents\22\Technosevice\Technosevice\bin\Debug\EntityFramework.dll
+C:\Users\stud.KIT\Documents\22\Technosevice\Technosevice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stud.KIT\Documents\22\Technosevice\Technosevice\bin\Debug\EntityFramework.xml
+C:\Users\stud.KIT\Documents\22\Technosevice\Technosevice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stud.KIT\Documents\22\Technosevice\Technosevice\obj\Debug\Technosevice.csproj.AssemblyReference.cache
+C:\Users\stud.KIT\Documents\22\Technosevice\Technosevice\obj\Debug\Technosevice.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud.KIT\Documents\22\Technosevice\Technosevice\obj\Debug\Technosevice.Properties.Resources.resources
+C:\Users\stud.KIT\Documents\22\Technosevice\Technosevice\obj\Debug\Technosevice.Authorizathion.resources
+C:\Users\stud.KIT\Documents\22\Technosevice\Technosevice\obj\Debug\Technosevice.View.Table.resources
+C:\Users\stud.KIT\Documents\22\Technosevice\Technosevice\obj\Debug\Technosevice.csproj.GenerateResource.cache
+C:\Users\stud.KIT\Documents\22\Technosevice\Technosevice\obj\Debug\Technosevice.csproj.CoreCompileInputs.cache
+C:\Users\stud.KIT\Documents\22\Technosevice\Technosevice\obj\Debug\Technosevice.csproj.CopyComplete
+C:\Users\stud.KIT\Documents\22\Technosevice\Technosevice\obj\Debug\Technosevice.exe
+C:\Users\stud.KIT\Documents\22\Technosevice\Technosevice\obj\Debug\Technosevice.pdb
